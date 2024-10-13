@@ -1,0 +1,25 @@
+Body {
+Font-family: Arial, sans-serif;
+}
+
+Header {
+Background-color: #f8f9fa;
+Padding: 20px;
+Text-align: center;
+}
+
+#app-list {
+Display: flex;
+Flex-wrap: wrap;
+Justify-content: space-around;
+}
+
+.app {
+Width: 200px;
+Margin: 20px;
+Text-align: center;
+}
+
+.app img {
+Width: 100%;
+}
